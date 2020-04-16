@@ -1,0 +1,12 @@
+for the ai bot:
+- tensorflow
+- keras
+
+for the game UI:
+- kivy
+
+for backend:
+- numpy
+- sqlite3
+- random
+- functools
